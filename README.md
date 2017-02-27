@@ -1,8 +1,21 @@
+<!DOCTYPE HTML>
 <html>     
 <head>        
  <meta http-equiv="Content-Type" content="text/html;
 charset=utf-8">        
- 	<title>零基础HTML编码</title>    
+ 	<title>零基础HTML编码</title> 
+ 	 <style type="text/css">
+        h1{
+    font-size:50px;
+color:#700;
+text-align:center;
+        }
+         h2{
+    font-size:30px;
+color:#750;
+text-align:left;
+        }
+        </style>
 </head>     
 <body>
 	<h1>XX粉丝群</h1>     
