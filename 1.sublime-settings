@@ -18,7 +18,8 @@ text-align:left;
 </head>     
 <body>
 	<h1>XX粉丝群</h1>     
-	<hr>   									
+	<hr>   	
+	<div>									
          <div>  
 	 <div id="first">
 		<h2>群成员</h2>        
