@@ -110,7 +110,7 @@ text-align:left;
 					<li>对管理员提出的意见</li><br>
 			    		<textarea cols="20" rows="10">在这里输入内容...</textarea>
 			    		<br><br>
-					<li>邮箱</Li><br>
+					<li>邮箱</li><br>
 						<input type="text" name="email">
 				</ol><br>
 				&nbsp;&nbsp;&nbsp;
