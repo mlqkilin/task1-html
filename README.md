@@ -107,5 +107,8 @@ text-align:left;
 		    </form>
 
 	</div>   
+	<address>
+本文的作者：<a href="mailto:kilinmlq@qq.com">kilin</a>
+</address>
 </body> 
 </html>
