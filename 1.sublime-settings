@@ -74,7 +74,7 @@ text-align:left;
 	<div>         
 		<h2>群微博</h2>
 		<ul>         
-			<li><a href="http://www.bilibili.com/video/av7145300/"><h3>群视频</h3></a></li>      
+			<li><a href="http://www.bilibili.com/video/av7145300/" target="_blank"><h3>群视频</h3></a></li>      
 			<li><a href="http://weibo.com/ttarticle/p/show?id=2309404050569173069645"><h3>小剧场</h3></a></li>       
 		</ul> 
 	</div>  
