@@ -27,7 +27,7 @@ text-align:left;
            <li><a href="#four">群微博</a><li>
            <li><a href="#five">群内问卷调查</a><li>
        </ul>
-       </br><hr>
+       </div><hr>
          <div>  
 	 <div id="first">
 		<h2>群成员</h2>        
