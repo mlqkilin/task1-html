@@ -19,7 +19,15 @@ text-align:left;
 <body>
 	<h1>XX粉丝群</h1>     
 	<hr>   	
-	<div>									
+	<div>	
+	<ul>
+	   <li><a href="#first">群成员</a><li>
+           <li><a href="#second">群简介</a><li>
+           <li><a href="#third">群规</a><li>
+           <li><a href="#four">群微博</a><li>
+           <li><a href="#five">群内问卷调查</a><li>
+       </ul>
+       </br><hr>
          <div>  
 	 <div id="first">
 		<h2>群成员</h2>        
