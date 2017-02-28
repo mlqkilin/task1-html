@@ -21,14 +21,13 @@ text-align:left;
 	<hr>   
 	<div>
 	<ul>
-	  <li><a href="#first">群成员</a></li>
-	  <li><a href="#second">群简介</a></li>
-	  <li><a href="#third">群规</a></li>
-	  <li><a href="#four">群微博</a></li>
-	  <li><a href="#five">群内问卷调查</a></li>
+	 <li><a href="#first">群成员</a></li>
+	 <li><a href="#second">群简介</a></li>
+	 <li><a href="#third">群规</a></li>
+	 <li><a href="#four">群微博</a></li>
+	 <li><a href="#five">群内问卷调查</a></li>
 	 </ul>
 	 </div><hr>
-        <div> 
 	<div id="first">
 		<h2>群成员</h2>        
 		<ul>
@@ -37,13 +36,11 @@ text-align:left;
 		</ul>
 	</div> 
 	<hr>    
-	<div>    
 	<div id="second">
 		<h2>群简介</h2>
 		<p>&nbsp;&nbsp;大家都是<strong>XXX</strong>粉丝，不准互相......,不要刷屏，有问题可以私信管理员......</p>
 	</div>   
 	<hr>  
-	<div>   
 	<div id="third">
 		<h2>群规</h2>         
 		<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488219127580&di=3ae853e11d92c647593d9907d45e72ea&imgtype=0&src=http%3A%2F%2Fupfile.asqql.com%2F2009pasdfasdfic2009s305985-ts%2F2016-5%2F2016520726459355.jpg" titlle="群规">
@@ -82,7 +79,6 @@ text-align:left;
 		</table>
 	</div> 
 	<hr>    
-	<div>   
 	<div id="four">
 		<h2>群微博</h2>
 		<ul>         
@@ -91,7 +87,6 @@ text-align:left;
 		</ul> 
 	</div>  
 	<hr>
-	<div>
 	<div id="five">
 		<h2>群内问卷调查</h2>
 		
